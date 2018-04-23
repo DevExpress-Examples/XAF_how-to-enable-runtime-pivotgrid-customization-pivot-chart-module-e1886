@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<Application>
+  <Views>
+    <DetailView ID="Analysis_DetailView">
+      <Items>
+        <PivotGridCustomizationItem ID="PivotGridCustomizationItem" IsNewNode="True" />
+      </Items>
+      <Layout>
+        <LayoutGroup ID="Main">
+          <LayoutGroup ID="SimpleEditors">
+            <LayoutGroup ID="PivotChartGroup">
+              <LayoutItem ID="PivotGridCustomizationItem" Index="0" IsNewNode="True" />
+            </LayoutGroup>
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+  </Views>
+</Application>
+
