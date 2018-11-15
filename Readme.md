@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Model.DesignedDiffs.xafml](./CS/PivotGridCustomization.Module.Win/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/PivotGridCustomization.Module.Win/Model.DesignedDiffs.xafml))
+* [PivotGridCustomizationDetailViewItem.cs](./CS/PivotGridCustomization.Module.Win/PivotGridCustomizationDetailViewItem.cs) (VB: [PivotGridCustomizationDetailViewItem.vb](./VB/PivotGridCustomization.Module.Win/PivotGridCustomizationDetailViewItem.vb))
+* [PivotGridCustomizationDetailViewItemBindingController.cs](./CS/PivotGridCustomization.Module.Win/PivotGridCustomizationDetailViewItemBindingController.cs) (VB: [PivotGridCustomizationDetailViewItemBindingController.vb](./VB/PivotGridCustomization.Module.Win/PivotGridCustomizationDetailViewItemBindingController.vb))
+<!-- default file list end -->
 # How to enable runtime PivotGrid customization (Pivot Chart module)
 
 
